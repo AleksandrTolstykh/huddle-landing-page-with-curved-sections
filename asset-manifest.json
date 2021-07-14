@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/huddle-landing-page-with-curved-sections/static/js/main.d7f21840.chunk.js",
+    "main.js.map": "/huddle-landing-page-with-curved-sections/static/js/main.d7f21840.chunk.js.map",
+    "runtime-main.js": "/huddle-landing-page-with-curved-sections/static/js/runtime-main.adf0063b.js",
+    "runtime-main.js.map": "/huddle-landing-page-with-curved-sections/static/js/runtime-main.adf0063b.js.map",
+    "static/js/2.07f7caa5.chunk.js": "/huddle-landing-page-with-curved-sections/static/js/2.07f7caa5.chunk.js",
+    "static/js/2.07f7caa5.chunk.js.map": "/huddle-landing-page-with-curved-sections/static/js/2.07f7caa5.chunk.js.map",
+    "index.html": "/huddle-landing-page-with-curved-sections/index.html",
+    "static/js/2.07f7caa5.chunk.js.LICENSE.txt": "/huddle-landing-page-with-curved-sections/static/js/2.07f7caa5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf0063b.js",
+    "static/js/2.07f7caa5.chunk.js",
+    "static/js/main.d7f21840.chunk.js"
+  ]
+}
